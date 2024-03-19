@@ -22,10 +22,9 @@ Blogging Application is created using MERN stack (MongoDB, Express, React, Node.
 - **Single-Page App:** React Router DOM simplifies navigation and enhances user experience.
 
 
+[View Demo](https://blog-frontend-seven-eta.vercel.app/)
 
-[Demo(<https://blog-frontend-seven-eta.vercel.app/>)
-
-
+<button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Demo</button>
 
 
 
