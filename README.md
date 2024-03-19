@@ -21,8 +21,25 @@ Blogging Application is created using MERN stack (MongoDB, Express, React, Node.
 - **Responsive Design:** Bootstrap ensures your app works well on various devices.
 - **Single-Page App:** React Router DOM simplifies navigation and enhances user experience.
 
+
+
+
+
+
+## Login Credentials
+- **Email:** s@gmail.com
+- **Password:** 123456789
+
+
+
+
+
 [View Demo](https://blog-frontend-seven-eta.vercel.app/)
 
 <button onclick="window.open('https://blog-frontend-seven-eta.vercel.app/', '_blank')" style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">View Demo</button>
+
+
+
+
 
 
